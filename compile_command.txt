@@ -1,0 +1,2 @@
+g++ -g -Wall -D_REENTRANT -fPIC -fno-exceptions -Iinclude simpleMotionCommands.cpp -o simpleMotionCommands -Llib -lAria -lpthread -lsicklms-1.0 -ldl -lrt
+
